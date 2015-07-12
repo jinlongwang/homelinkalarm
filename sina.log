@@ -1,0 +1,13 @@
+2012-11-05 16:59:24,950 ERROR start!
+2012-11-05 17:00:07,796 ERROR start!
+2012-11-05 17:00:24,447 ERROR start!
+2012-11-05 17:04:54,303 ERROR start!
+2012-11-05 17:00:04,615 ERROR start!
+2012-11-05 17:00:04,947 ERROR timer() is crash:(1146, "Table 'house_radar.sina_list_2' doesn't exist")
+2012-11-05 17:00:45,930 ERROR start!
+2012-11-05 17:00:46,026 ERROR timer() is crash:(1146, "Table 'house_radar.sina_list_2' doesn't exist")
+2012-11-05 17:01:50,713 ERROR start!
+2012-11-05 17:00:07,776 ERROR start!
+2012-11-05 17:00:44,671 ERROR timer() is crash:(1146, "Table 'house_radar.sina_list_2' doesn't exist")
+2012-11-05 17:03:22,885 ERROR start!
+2012-11-05 17:00:06,371 ERROR start!
